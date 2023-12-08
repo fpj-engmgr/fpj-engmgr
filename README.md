@@ -3,7 +3,7 @@
 - 👀 One of these areas is to get back into hacking the kernel, which is one of my passions. I've had a ton of fun in the past working on SCSI and networking, which I want to rekindle! 
 - 🌱 I’m currently getting up to date on the more modern kernels (embarrassed to that my last serious work was on 3.x kernels)
 - 💞️ I’m looking to collaborate on anything that involves storage and/or networking!
-- 📫 You can find me here and also ping me on Twitter @FJPhotography
+- 📫 You can find me here and also find me on Threads @fphjansen
 
 <!---
 fpj-engmgr/fpj-engmgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
